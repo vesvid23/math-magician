@@ -12,3 +12,6 @@ def main():
 
   if __name__ == "__main__":
       main()
+
+def multiplication(a, b):
+    return a * b
